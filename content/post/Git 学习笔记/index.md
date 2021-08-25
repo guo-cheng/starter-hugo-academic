@@ -3,13 +3,7 @@ title: Git学习笔记
 subtitle: Git和GitHub作为目前最流行的代码管理和托管工具，值得花时间学习。本文主要参考廖雪峰的Git学习教程
 
 # Summary for listings and search engines
-summary: Git是目前世界上最先进的分布式版本控制系统（没有之一）
-
-Linus一直痛恨的CVS及SVN都是集中式的版本控制系统，而Git是分布式版本控制系统
-
-Linus花了两周时间自己用C写了一个分布式版本控制系统，这就是Git！
-
-Git迅速成为最流行的分布式版本控制系统，尤其是2008年，GitHub网站上线了，它为开源项目免费提供Git存储，无数开源项目开始迁移至GitHub
+summary: Git是目前世界上最先进的分布式版本控制系统（没有之一）;Linus一直痛恨的CVS及SVN都是集中式的版本控制系统，而Git是分布式版本控制系统;Linus花了两周时间自己用C写了一个分布式版本控制系统，这就是Git！;Git迅速成为最流行的分布式版本控制系统，尤其是2008年，GitHub网站上线了，它为开源项目免费提供Git存储，无数开源项目开始迁移至GitHub.
 
 # Link this post with a project
 projects: [Data Science]
