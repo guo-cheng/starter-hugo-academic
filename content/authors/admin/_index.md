@@ -14,7 +14,7 @@ organizations:
   url: http://english.ioz.cas.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD at Institute of Zoology, The Chinese Academy of Sciences, Beijing, China.  I am using genomics and transcriptomics to study insect chemoreception.
+bio: Hi! I am a PhD at Institute of Zoology, The Chinese Academy of Sciences, Beijing, China.  I am using genomics and transcriptomics to study insect chemoreception.
 
 # Interests to show in About widget
 interests:
@@ -69,6 +69,4 @@ email: "liguocheng@ioz.ac.cn"
 highlight_name: false
 ---
 
-I am a Ph.D at Institute of Zoology, The Chinese Academy of Sciences, Beijing, China.  My Ph.D research work: insect chemoreception, comparative transcriptomics and genomics.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Hi! I am a Ph.D at Institute of Zoology, The Chinese Academy of Sciences, Beijing, China.  My Ph.D research work: insect chemoreception, comparative transcriptomics and genomics.
