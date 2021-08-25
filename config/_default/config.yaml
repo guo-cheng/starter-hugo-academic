@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Trembling_insect # Website name
-baseurl: 'https://example.com/' # Website URL
+title: Trembling bugs # Website name
+baseurl: 'https://www.moths.life/' # Website URL
 copyright: "&copy;{year} [Guo-Cheng Li's website](www.moths.life)"
 
 ############################

@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: forest
+theme: Minimal
 day_night: true
-font: 'futuristic'
+font: 'Minimal'
 font_size: L
 
 # SEO
