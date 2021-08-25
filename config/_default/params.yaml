@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: Minimal
+theme: forest
 day_night: true
 font: 'Minimal'
 font_size: L
@@ -140,10 +140,10 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
-map:
-  provider: 'mapnik'
-  api_key: 'pk.eyJ1IjoiZ3VvY2hlbmciLCJhIjoiY2tobXRmM2s5MDNqaTMycWxzaWpoYnBrcyJ9.bJpip62ITVQ4yUng91Uv_A'
-  zoom: 15
+# map:
+#   provider: 'mapnik'
+#   api_key: 'pk.eyJ1IjoiZ3VvY2hlbmciLCJhIjoiY2tobXRmM2s5MDNqaTMycWxzaWpoYnBrcyJ9.bJpip62ITVQ4yUng91Uv_A'
+#   zoom: 15
 marketing:
   google_analytics: ''
   google_tag_manager: ''

@@ -669,7 +669,5 @@ https://www.liaoxuefeng.com/wiki/896043488029600
 
 ## License
 
-Copyright 2020-present [Guo-Cheng Li](https://moths.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+Copyright 2021 [Guo-Cheng Li](https://moths.com). Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
 
