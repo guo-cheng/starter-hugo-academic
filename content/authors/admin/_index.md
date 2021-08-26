@@ -69,4 +69,8 @@ email: "liguocheng@ioz.ac.cn"
 highlight_name: false
 ---
 
-Hi! I am a Ph.D at Institute of Zoology, The Chinese Academy of Sciences, Beijing, China.  My Ph.D research work: insect chemoreception, comparative transcriptomics and genomics.
+Hi! :man_student: I am a Ph.D at Institute of Zoology, The Chinese Academy of Sciences, Beijing, China.  My Ph.D research work includes: insect chemoreception, comparative transcriptomics and genomics.
+
+This blog is a record of what I saw, heard, and learned during my graduate studies.
+
+The harder you work, the luckier you get!
