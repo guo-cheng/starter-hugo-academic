@@ -129,7 +129,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: 'guocheng li'
+    shortname: 'www-moths-life'
     show_count: true
   commento:
     url: ''
