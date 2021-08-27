@@ -20,7 +20,7 @@ bio: Hi! I am a PhD at Institute of Zoology, The Chinese Academy of Sciences, Be
 interests:
 - Insect Chemoreception
 - Comparative Genomics
-- Data science
+- Data Science
 - Data Visualization
 - Linux shell, R and python
 
