@@ -85,7 +85,7 @@ RPKM= total exon reads/ (mapped reads (Millions) * exon length(KB)
 1. read counts 除以基因长度
     ![mark](http://cdn.liguocheng.top/blog/20200409/6Dc3wBoaTGdj.png?imageslim)
     2.将每个样品的 read counts 合并，添加一行 Total Reads
-  ![mark](http://cdn.liguocheng.top/blog/20200409/PzDyfJTd9AOW.png?imageslim)
+    ![mark](http://cdn.liguocheng.top/blog/20200409/PzDyfJTd9AOW.png?imageslim)
 
 2. 再除以 Total，得到以下表格
     ![mark](http://cdn.liguocheng.top/blog/20200409/Wns1qwP6WRhs.png?imageslim)
