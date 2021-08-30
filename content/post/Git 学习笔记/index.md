@@ -1,5 +1,5 @@
 ---
-title: Git学习笔记
+title: Git learning notes
 subtitle: Git和GitHub作为目前最流行的代码管理和托管工具，值得花时间学习。本文主要参考廖雪峰的Git学习教程
 
 # Summary for listings and search engines

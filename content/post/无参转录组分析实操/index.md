@@ -1,6 +1,6 @@
 ---
-title: 无参转录组分析实操
-subtitle: 无参转录组分析实操
+title: De-novo transcriptome analysis
+subtitle: De-novo transcriptome analysis
 
 # Summary for listings and search engines
 summary: 

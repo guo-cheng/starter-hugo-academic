@@ -1,6 +1,6 @@
 ---
-title: R语言基础与数据清洗
-subtitle: R语言基础与数据清洗
+title: R language foundation and data cleaning
+subtitle: R language foundation and data cleaning
 
 # Summary for listings and search engines
 summary: 

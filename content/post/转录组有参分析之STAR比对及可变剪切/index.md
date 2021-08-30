@@ -1,5 +1,5 @@
 ---
-title: 转录组有参分析之STAR比对及可变剪切
+title: Reference-guide transcriptome analysis
 subtitle: STAR比对的特点：速度快；准确度高
 
 # Summary for listings and search engines

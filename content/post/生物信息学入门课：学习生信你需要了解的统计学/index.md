@@ -1,5 +1,5 @@
 ---
-title: 生物信息学入门课：学习生信你需要了解的统计学
+title: Learn the statistics you need to know
 subtitle: 这篇学习笔记主要参考北大生科院孟浩巍博士在腾讯课堂开设的课程(十分推荐学习)
 
 # Summary for listings and search engines
