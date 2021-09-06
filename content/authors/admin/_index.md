@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Cell Biology
     institution: Institute of Zoology, The Chinese Academy of Sciences
-    year: 2020
+    year: 2021
   - course: BSc in Cell Biology
     institution: Institute of Zoology, The Chinese Academy of Sciences
     year: 2018
